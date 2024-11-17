@@ -158,7 +158,7 @@ abline(v = c(min, max), col = "red", lwd = 3, lty = 2)
 ```
 
 
-![](Rplot.png)
+![](./images/hetrogeneity.png)
 
 
 ### Identification of Individuals with Discordant Sex Information
