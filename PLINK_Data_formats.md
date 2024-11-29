@@ -83,7 +83,8 @@ In short, .ped/.map files are a more human-readable, flexible format, while .bed
 
 ## Following picture illustrates the difference between data formats.
 
-![Figure 1. Overview of various commonly used PLINK files. Retrieved from ResearchGate by Alkes Price, 2024. Copyright 2024 Alkes Price.](https://www.researchgate.net/publication/323424714/figure/fig3/AS:667766705098757@1536219397189/Overview-of-various-commonly-used-PLINK-files-SNP-single-nucleotide-polymorphism.png)
+![](./images/PLINK_Data_formats.png)
+
 <small>*Figure 1. Overview of various commonly used PLINK files. Retrieved from ResearchGate by Alkes Price, 2024. Copyright 2024 Alkes Price.*</small>
 
 
